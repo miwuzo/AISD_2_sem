@@ -1,0 +1,7 @@
+﻿  Source.cpp
+C:\Users\yana\Desktop\3\3\Source.cpp(96,52): warning C4101: time_fast: неиспользованная локальная переменная
+C:\Users\yana\Desktop\3\3\Source.cpp(96,10): warning C4101: time_bubble: неиспользованная локальная переменная
+C:\Users\yana\Desktop\3\3\Source.cpp(96,23): warning C4101: time_shaker: неиспользованная локальная переменная
+C:\Users\yana\Desktop\3\3\Source.cpp(96,36): warning C4101: time_selection: неиспользованная локальная переменная
+C:\Users\yana\Desktop\3\3\Source.cpp(94,8): warning C4101: n: неиспользованная локальная переменная
+  3.vcxproj -> C:\Users\yana\Desktop\3\x64\Debug\3.exe
