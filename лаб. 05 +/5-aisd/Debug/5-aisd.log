@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\yana\Desktop\5-aisd\5-aisd\Source.cpp(45): warning C4715: proverka: значение возвращается не при всех путях выполнения
+  5-aisd.vcxproj -> C:\Users\yana\Desktop\5-aisd\Debug\5-aisd.exe
