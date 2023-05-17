@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\yana\Desktop\4-2\4-2\Source.cpp(54,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\yana\Desktop\4-2\4-2\Source.cpp(56,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  4-2.vcxproj -> C:\Users\yana\Desktop\4-2\x64\Debug\4-2.exe
